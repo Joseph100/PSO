@@ -4,3 +4,6 @@ C:\Users\Joseph\Documents\Visual Studio 2015\Projects\Neural-Network\Interferome
 C:\Users\Joseph\Documents\Visual Studio 2015\Projects\Neural-Network\Interferometer\obj\Debug\Interferometer.csprojResolveAssemblyReference.cache
 C:\Users\Joseph\Documents\Visual Studio 2015\Projects\Neural-Network\Interferometer\obj\Debug\Interferometer.exe
 C:\Users\Joseph\Documents\Visual Studio 2015\Projects\Neural-Network\Interferometer\obj\Debug\Interferometer.pdb
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\PSO_Demo\bin\Debug\Interferometer.exe.config
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\PSO_Demo\obj\Debug\Interferometer.exe
+C:\Users\Joseph\Documents\Visual Studio 2015\Projects\PSO_Demo\obj\Debug\Interferometer.pdb

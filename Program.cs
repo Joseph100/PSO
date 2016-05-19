@@ -21,6 +21,13 @@ namespace Interferometer
             {
                 pattern[i] = (0.5 * pattern1[i] + 0.5 * pattern2[i]);
             }
+
+            //display the cummulative interference pattern
+            foreach (double d in pattern)
+            {
+                printAsterix(d);
+            }
+
             SpectrumAnalyzer spectrumAnalyzer = new SpectrumAnalyzer(interferometer);
             var dict = spectrumAnalyzer.getspectralComponents(pattern);
 
